@@ -33,3 +33,11 @@ network-modeling-tool/
 └── LICENSE                     # Optional license file (MIT recommended)
 
 
+⚙️ Setup & Usage
+1️⃣ Install Dependencies
+pip install -r requirements.txt
+
+2️⃣ Run the Project
+python network_model.py
+
+
